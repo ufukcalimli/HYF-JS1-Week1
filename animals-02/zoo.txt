@@ -1,0 +1,8 @@
+Elephant
+Lion
+Monkey
+Crocodile
+Bear
+Tiger
+Ostrich
+Whale
